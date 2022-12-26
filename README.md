@@ -1,6 +1,6 @@
 ## Darcula
 
-A slightly modified version of `doum/darcula`
+A slightly modified version of `doums/darcula`
 
 ![darcula](./img/full_screen.png)
 
