@@ -15,7 +15,7 @@ let g:colors_name='darcula'
 
 let s:p={
       \ 'null': ['NONE', 'NONE'],
-      \ 'bg': ['#2B2B2B', 235],
+      \ 'bg': ['#1E1F21', 235],
       \ 'fg': ['#A9B7C6', 145],
       \ 'cursor': ['#BBBBBB', 250],
       \ 'identifierUnderCaret': ['#344134', 237],
